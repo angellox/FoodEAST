@@ -15,3 +15,5 @@ It's a website that has to do with food and kind of food-delivery.
 The design was made on Figma. You can download it from here. 
 
 ## Take a look
+
+Give it a try here: https://foodeast-project.netlify.app/
